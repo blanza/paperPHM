@@ -1,5 +1,6 @@
 # Paper accepted for publication - Population Health Metrics
-Replication material for the paper "Estimation and probabilistic projection of age- and sex-specific mortality rates across Brazilian municipalities between 2010 and 2030"
+Replication material for the paper "Estimation and probabilistic projection of age- and sex-specific mortality rates across Brazilian municipalities between 2010 and 2030".
+
 The material includes:
 
 
