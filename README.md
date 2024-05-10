@@ -3,6 +3,14 @@ Replication material for the paper "Estimation and probabilistic projection of a
 
 The material includes:
 
+1. Input Data
+   
+2. R codes to prepare data
+
+3. R codes to generate estimates
+   
+4. R codes to generate figures and maps
+   
 
 # Abstract 
 
