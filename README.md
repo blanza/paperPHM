@@ -6,12 +6,12 @@ The material includes:
 1. Input Data
    
 2. R codes to prepare data
-2.1. The R models to apply the bayesian model to 2010 Brazilian revised database was developed by Carl Schmertmann
-2.2. the codes are public available at: https://mortality-subregistration.schmert.net/
-2.3. original model and estimates
-     - Schmertmann, C. P., & Gonzaga, M. R. (2018). Bayesian estimation of age-specific mortality and life expectancy for small areas with defective vital records. 
+   - The R models to apply the bayesian model to 2010 Brazilian revised database was developed by Carl Schmertmann
+   - the codes are public available at: https://mortality-subregistration.schmert.net/
+   - original model and estimates
+   - Schmertmann, C. P., & Gonzaga, M. R. (2018). Bayesian estimation of age-specific mortality and life expectancy for small areas with defective vital records. 
       Demography, 55(4), 1363-1388.
-2.4. Topals orginal codes are available at: https://schmert.net/topals-mortality/
+- Topals orginal codes are available at: https://schmert.net/topals-mortality/
 
 4. R codes to generate estimates
    
