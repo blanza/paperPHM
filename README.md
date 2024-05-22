@@ -10,6 +10,8 @@ The material includes:
 3. R codes to generate estimates
    
 4. R codes to generate figures and maps
+
+5. In addition to the GitHub repository, all files can be found here: https://onedrive.live.com/?authkey=%21AHCxGkn%2Dg05VLCw&id=51E2A385A790232D%2142531&cid=51E2A385A790232D
    
 
 # Abstract 
