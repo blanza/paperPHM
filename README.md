@@ -12,8 +12,10 @@ The material includes:
    - Schmertmann, C. P., & Gonzaga, M. R. (2018). Bayesian estimation of age-specific mortality and life expectancy for small areas with defective vital records. 
       Demography, 55(4), 1363-1388.
 - Topals orginal codes are available at: https://schmert.net/topals-mortality/
+    - Gonzaga, M. R., & Schmertmann, C. P. (2016). Estimating age-and sex-specific mortality rates for small areas with TOPALS regression: an application to Brazil in 2010. 
+      Revista Brasileira de Estudos de População, 33, 629-652.
 
-4. R codes to generate estimates
+4. R codes to generate estimates of mortality at municipal level and for Lee-Carter model
    
 5. R codes to generate figures and maps
 
