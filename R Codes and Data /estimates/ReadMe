@@ -1,2 +1,8 @@
 R codes to perform the analysis and produce mortality estimates
+R files are for:
+- run the basic model 
+- estimate completeness of death counts registration
+- estimate life expectancy
+- fit Topals model
+- final adjustment for Life Table estimates for each municipality
 Input Data: logmx.micro.zip
